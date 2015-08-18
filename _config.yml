@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /sam-deacon-draft-blog
+exclude: ['README.md']
